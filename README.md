@@ -1,10 +1,10 @@
 # Olá, eu sou Nelson Machado
-🔭 Atualmente estudando **React Native**<br/>📕 Estudando **Desenvolvimento de Software Multiplataforma**<br/>💡 **Gosto de aprender sobre tecnologia em geral**<br/>
+🔭 Atualmente estudando **Flutter**<br/>📕 Estudando **Desenvolvimento de Software Multiplataforma**<br/>💡 **Gosto de aprender sobre tecnologia em geral**<br/>
 
 ___
 
 # Hello, I'm Nelson Machado
-🔭 I'm currently studying **React Native**<br/>📕 Student of **Desenvolvimento de Software Multiplataforma**<br/>💡 **I enjoy to learn about technologies in general**<br/>
+🔭 I'm currently studying **Flutter**<br/>📕 Student of **Desenvolvimento de Software Multiplataforma**<br/>💡 **I enjoy to learn about technologies in general**<br/>
 
 
 
