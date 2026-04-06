@@ -1,5 +1,5 @@
 # Olá, eu sou Nelson Machado
-🔭 Atualmente estudando **Flutter**<br/>📕 Estudando **Desenvolvimento de Software Multiplataforma**<br/>💡 **Gosto de aprender sobre tecnologia em geral**<br/>
+🔭 Atualmente estudando **Flutter**<br/>📕 Recém-formado em **Desenvolvimento de Software Multiplataforma**<br/>💡 **Gosto de aprender sobre tecnologia em geral**<br/>
 
 ___
 
