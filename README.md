@@ -4,7 +4,7 @@
 ___
 
 # Hello, I'm Nelson Machado
-🔭 I'm currently studying **Flutter**<br/>📕 Student of **Desenvolvimento de Software Multiplataforma**<br/>💡 **I enjoy to learn about technologies in general**<br/>
+🔭 I'm currently studying **Flutter**<br/>📕 Recent graduate in **Desenvolvimento de Software Multiplataforma**<br/>💡 **I enjoy to learn about technologies in general**<br/>
 
 
 
